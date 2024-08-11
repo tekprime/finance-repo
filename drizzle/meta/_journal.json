@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1723230703500,
+      "tag": "0000_tidy_odin",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1723383317561,
+      "tag": "0001_eager_meteorite",
+      "breakpoints": true
+    }
+  ]
+}
