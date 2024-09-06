@@ -15,6 +15,13 @@
       "when": 1723383317561,
       "tag": "0001_eager_meteorite",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1724323830463,
+      "tag": "0002_powerful_spot",
+      "breakpoints": true
     }
   ]
 }
